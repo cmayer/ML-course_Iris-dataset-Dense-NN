@@ -5,7 +5,6 @@ name: tf-env
 
 channels:
   - conda-forge
-  - conda-forge
   - bioconda
 dependencies:
   - python=3.10

@@ -21,7 +21,7 @@ Run the classification analysis by executing:
 python3 iris-dataset-with-NNs.py
 ```
 
-You could test the effect of the following modifications:
+You can test the effect of the following modifications:
 - add a second hidden layer
 - change the number of neurones in the hidden layer
 - change the learning rate for the Adam optimiser
